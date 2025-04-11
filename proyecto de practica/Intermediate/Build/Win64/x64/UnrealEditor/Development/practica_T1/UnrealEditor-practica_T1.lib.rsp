@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-practica_T1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal carpeta de proyectos\t1\practica\practica_T1\Intermediate\Build\Win64\x64\practica_T1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\unreal carpeta de proyectos\t1\practica\practica_T1\Intermediate\Build\Win64\x64\UnrealEditor\Development\practica_T1\practica_T1.cpp.obj"
+"D:\unreal carpeta de proyectos\t1\practica\practica_T1\Intermediate\Build\Win64\x64\UnrealEditor\Development\practica_T1\Default.rc2.res"
+/OUT:"D:\unreal carpeta de proyectos\t1\practica\practica_T1\Intermediate\Build\Win64\x64\UnrealEditor\Development\practica_T1\UnrealEditor-practica_T1.lib"
