@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\juan\\onedrive\\escritorio\\proyecto_t1\\ovnitorco\\source\\ovnitorco\\ovnitorco.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\juan\\onedrive\\escritorio\\proyecto_t1\\ovnitorco\\intermediate\\build\\win64\\x64\\ovnitorcoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\juan\\onedrive\\escritorio\\proyecto_t1\\ovnitorco\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ovnitorco\\definitions.ovnitorco.h",
+            "c:\\users\\juan\\onedrive\\escritorio\\proyecto_t1\\ovnitorco\\source\\ovnitorco\\ovnitorco.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
